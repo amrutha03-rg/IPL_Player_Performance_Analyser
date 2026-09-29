@@ -139,7 +139,8 @@ The project uses IPL match-related data for analysis.
 
 The dataset is processed through the project workflow before being used for the final analysis and visualizations.
 
-> Dataset source and specific dataset details will be documented here.
+https://www.kaggle.com/datasets/abhishekgodara/ipl-data-set
+http://kaggle.com/datasets/arjunsinghgangwar/ipl-20082026-matches-dataset
 
 ---
 
@@ -147,12 +148,11 @@ The dataset is processed through the project workflow before being used for the 
 
 | Name   | Role            |
 | ------ | --------------- |
-| Name 1 | Data Analysis   |
-| Name 2 | Data Processing |
-| Name 3 | Visualization   |
-| Name 4 | Documentation   |
+| Sk. Sameeruddin (25B11CS897) | Data Analysis   |
+| T. Amrutha Varshini (25B11CS926) | Data Processing |
+| V. Haarika (25B11CS996) | Visualization   |
+| R. Shyam Kumar (25B11CS833) | Documentation   |
 
-*Replace the names and roles with your actual team members and contributions.*
 
 ---
 
