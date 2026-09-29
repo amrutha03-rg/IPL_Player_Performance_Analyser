@@ -66,23 +66,26 @@ The major findings from the analysis are summarized, along with observations and
 ```text
 IPL-Data-Analysis/
 │
-├── README.md
+├── data/
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
-│   ├── 01_Data_Loading.ipynb
-│   ├── 02_Data_Acquisition_Filtering.ipynb
-│   ├── 03_Data_Extraction.ipynb
-│   ├── 04_Data_Validation_Cleaning.ipynb
-│   ├── 05_Data_Aggregation_Representation.ipynb
-│   ├── 06_Data_Analysis.ipynb
-│   ├── 07_Data_Visualization.ipynb
-│   └── 08_Results.ipynb
-│
-├── data/
+│   ├── 01_data_loading.ipynb
+│   ├── 02_data_acquisition_filtering.ipynb
+│   ├── 03_data_extraction.ipynb
+│   ├── 04_data_validation_cleaning.ipynb
+│   ├── 05_data_aggregation.ipynb
+│   ├── 06_data_analysis.ipynb
+│   ├── 07_data_visualization.ipynb
+│   └── 08_results.ipynb
 │
 ├── outputs/
+│   ├── figures/
+│   └── tables/
 │
-└── requirements.txt
+├── requirements.txt
+└── README.md
 ```
 
 ---
