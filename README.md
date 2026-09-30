@@ -154,8 +154,8 @@ https://www.kaggle.com/datasets/abhishekgodara/ipl-data-set
 
 | Name   | Role            |
 | ------ | --------------- |
-| Sk. Sameeruddin (25B11CS897) | Data Analysis   |
-| T. Amrutha Varshini (25B11CS926) | Data Processing |
+| Sk. Sameeruddin (25B11CS897) | Data Loading And Reading   |
+| T. Amrutha Varshini (25B11CS926) | Data Cleaning & Processing |
 | V. Haarika (25B11CS996) | Aggregation & Analysis   |
 | R. Shyam Kumar (25B11CS833) | Visualisations  |
 
