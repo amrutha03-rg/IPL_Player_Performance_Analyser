@@ -1,6 +1,6 @@
 # 🏏 IPL Data Analysis
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project is focused on analyzing the Indian Premier League (IPL) data to explore and discover patterns and trends related to players, teams, matches, batting, bowling, and performance.
 
